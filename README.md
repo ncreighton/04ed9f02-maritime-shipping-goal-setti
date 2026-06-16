@@ -1,2 +1,28 @@
-# 04ed9f02-maritime-shipping-goal-setti
-Tired of vague shipping goals that never translate to real fleet performance or crew accountability? Stop juggling spreadsheets and start aligning every vessel, department, and quarter with a purpose-built OKR system.  This Notion template eliminates the chaos of manual goal tracking in maritime operations. It provides a structured, automated frame
+# Maritime & Shipping Goal Setting and OKR Framework Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFa9AT8v50bW8FG33md0k0s)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa9AT8v50bW8FG33md0k0s)
+
